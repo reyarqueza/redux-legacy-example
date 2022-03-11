@@ -1,0 +1,569 @@
+{
+  "status": {
+    "timestamp": "2022-03-10T21:54:46.764Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 29,
+    "credit_count": 1,
+    "notice": null
+  },
+  "data": {
+    "BABYFLOKIZILLA": {
+      "id": 13989,
+      "name": "BabyFlokiZilla",
+      "symbol": "BABYFLOKIZILLA",
+      "slug": "babyflokizilla",
+      "num_market_pairs": 1,
+      "date_added": "2021-11-09T01:11:15.000Z",
+      "tags": [],
+      "max_supply": 900719925474099,
+      "circulating_supply": 0,
+      "total_supply": 0,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0x9dc8ae7f7f88e1344c289d75cd0d4ce07dc4aae6"
+      },
+      "is_active": 1,
+      "cmc_rank": 7514,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "last_updated": "2022-03-10T21:53:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 1.717718e-18,
+          "volume_24h": 443.04014123,
+          "volume_change_24h": -16.1457,
+          "percent_change_1h": 0.4513533,
+          "percent_change_24h": -5.09844522,
+          "percent_change_7d": -11.45782776,
+          "percent_change_30d": -15.38334278,
+          "percent_change_60d": -26.905611,
+          "percent_change_90d": -51.33942942,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 0,
+          "last_updated": "2022-03-10T21:53:00.000Z"
+        }
+      }
+    },
+    "BABYKITTY": {
+      "id": 16625,
+      "name": "BabyKitty",
+      "symbol": "BABYKITTY",
+      "slug": "babykitty",
+      "num_market_pairs": 2,
+      "date_added": "2021-12-29T16:50:17.000Z",
+      "tags": [],
+      "max_supply": 9007199254740991,
+      "circulating_supply": 0,
+      "total_supply": 9007199254740991,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0x3efe3bee4dbeb77d260bc12aeb62072cf6e68478"
+      },
+      "is_active": 1,
+      "cmc_rank": 6832,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": 1e+25,
+      "self_reported_market_cap": 232810.00000000003,
+      "last_updated": "2022-03-10T21:53:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 2.3281e-20,
+          "volume_24h": 1994.08286501,
+          "volume_change_24h": 15.9378,
+          "percent_change_1h": 16.40301333,
+          "percent_change_24h": -22.39799111,
+          "percent_change_7d": -22.39799111,
+          "percent_change_30d": -53.43879467,
+          "percent_change_60d": -87.06633185,
+          "percent_change_90d": -91.68549905,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 0,
+          "last_updated": "2022-03-10T21:53:00.000Z"
+        }
+      }
+    },
+    "BUSD": {
+      "id": 4687,
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "slug": "binance-usd",
+      "num_market_pairs": 3146,
+      "date_added": "2019-09-20T00:00:00.000Z",
+      "tags": [
+        "stablecoin",
+        "asset-backed-stablecoin",
+        "binance-chain",
+        "harmony-ecosystem",
+        "moonriver-ecosystem",
+        "bnb-chain"
+      ],
+      "max_supply": null,
+      "circulating_supply": 18013839122.649254,
+      "total_supply": 18013839122.649254,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Beacon Chain (BEP2)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "BUSD-BD1"
+      },
+      "is_active": 1,
+      "cmc_rank": 11,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "last_updated": "2022-03-10T21:53:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 0.9994860339026937,
+          "volume_24h": 5523877705.57896,
+          "volume_change_24h": -9.7344,
+          "percent_change_1h": 0.02713447,
+          "percent_change_24h": -0.05823721,
+          "percent_change_7d": -0.14151988,
+          "percent_change_30d": -0.08310989,
+          "percent_change_60d": -0.17991499,
+          "percent_change_90d": -0.07173315,
+          "market_cap": 18004580620.057884,
+          "market_cap_dominance": 1.0251,
+          "fully_diluted_market_cap": 18004580620.06,
+          "last_updated": "2022-03-10T21:53:00.000Z"
+        }
+      }
+    },
+    "CINU": {
+      "id": 15230,
+      "name": "Cheems Inu",
+      "symbol": "CINU",
+      "slug": "cheems-inu",
+      "num_market_pairs": 2,
+      "date_added": "2021-11-28T03:00:00.000Z",
+      "tags": [],
+      "max_supply": 9007199254740991,
+      "circulating_supply": 0,
+      "total_supply": 9007199254740991,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0xdfe6891ce8e5a5c7cf54ffde406a6c2c54145f71"
+      },
+      "is_active": 1,
+      "cmc_rank": 3540,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": 4.86e+21,
+      "self_reported_market_cap": 34405873.623900004,
+      "last_updated": "2022-03-10T21:53:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 7.079397865e-15,
+          "volume_24h": 376964.17182059,
+          "volume_change_24h": 34.759,
+          "percent_change_1h": 1.02183235,
+          "percent_change_24h": 6.45759101,
+          "percent_change_7d": 63.71578246,
+          "percent_change_30d": 27.30005386,
+          "percent_change_60d": 28.22766086,
+          "percent_change_90d": 345.17235327,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 63.77,
+          "last_updated": "2022-03-10T21:53:00.000Z"
+        }
+      }
+    },
+    "DOGEZILLA": {
+      "id": 13078,
+      "name": "DogeZilla",
+      "symbol": "DOGEZILLA",
+      "slug": "dogezilla",
+      "num_market_pairs": 12,
+      "date_added": "2021-10-24T07:20:44.000Z",
+      "tags": [
+        "memes"
+      ],
+      "max_supply": null,
+      "circulating_supply": 0,
+      "total_supply": 0,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0x7a565284572d03ec50c35396f7d6001252eb43b6"
+      },
+      "is_active": 1,
+      "cmc_rank": 4465,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "last_updated": "2022-03-10T21:53:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 2.43554755e-16,
+          "volume_24h": 78445.68026032,
+          "volume_change_24h": -19.8961,
+          "percent_change_1h": 1.05167812,
+          "percent_change_24h": -0.69528068,
+          "percent_change_7d": -13.77066574,
+          "percent_change_30d": -42.95874406,
+          "percent_change_60d": -68.96640529,
+          "percent_change_90d": -77.83649517,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 0,
+          "last_updated": "2022-03-10T21:53:00.000Z"
+        }
+      }
+    },
+    "EARTHSHIB": {
+      "id": 15081,
+      "name": "The Earth Shiba",
+      "symbol": "EARTHSHIB",
+      "slug": "the-earth-shiba",
+      "num_market_pairs": 2,
+      "date_added": "2021-11-24T02:35:22.000Z",
+      "tags": [],
+      "max_supply": 420000000000000000,
+      "circulating_supply": 0,
+      "total_supply": 420000000000000000,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0xf4871deC85CBF4B7afB5d8935B10bA5C3A14910c"
+      },
+      "is_active": 1,
+      "cmc_rank": 7952,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": 294000000000000000,
+      "self_reported_market_cap": 51261.131370624,
+      "last_updated": "2022-03-10T21:53:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 1.74357589696e-13,
+          "volume_24h": 128.38033003,
+          "volume_change_24h": 21.5844,
+          "percent_change_1h": 0.53543511,
+          "percent_change_24h": -4.88428891,
+          "percent_change_7d": -8.31741747,
+          "percent_change_30d": -17.15445781,
+          "percent_change_60d": -21.37777936,
+          "percent_change_90d": -33.47442563,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 73230.19,
+          "last_updated": "2022-03-10T21:53:00.000Z"
+        }
+      }
+    },
+    "MBY": {
+      "id": 18396,
+      "name": "Monkey Token V2",
+      "symbol": "MBY",
+      "slug": "monkey-token-v2",
+      "num_market_pairs": 1,
+      "date_added": "2021-06-23T00:00:00.000Z",
+      "tags": [],
+      "max_supply": 100000000000000000,
+      "circulating_supply": 0,
+      "total_supply": 1000000000000,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0x87F846543363137596fe0b4E7875220A026A1f40"
+      },
+      "is_active": 1,
+      "cmc_rank": 6758,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": 1000000000000,
+      "self_reported_market_cap": 693551.2439558236,
+      "last_updated": "2022-03-10T21:53:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 6.935512439558236e-7,
+          "volume_24h": 2287.36203597,
+          "volume_change_24h": 81.2708,
+          "percent_change_1h": 0.53543729,
+          "percent_change_24h": -13.21566028,
+          "percent_change_7d": -35.18398218,
+          "percent_change_30d": -71.93281496,
+          "percent_change_60d": -71.93281496,
+          "percent_change_90d": -71.93281496,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 69355124395.58,
+          "last_updated": "2022-03-10T21:53:00.000Z"
+        }
+      }
+    },
+    "MOMMYDOGE": {
+      "id": 10876,
+      "name": "Mommy Doge Coin",
+      "symbol": "MOMMYDOGE",
+      "slug": "mommy-doge-coin",
+      "num_market_pairs": 1,
+      "date_added": "2021-07-13T00:00:00.000Z",
+      "tags": [
+        "bnb-chain"
+      ],
+      "max_supply": 420000000000000000,
+      "circulating_supply": 0,
+      "total_supply": 0,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0x989b8f0219eb7aa0bed22e24f053eb2b155f4394"
+      },
+      "is_active": 0,
+      "cmc_rank": null,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "last_updated": "2021-11-21T18:25:09.000Z",
+      "quote": {
+        "USD": {
+          "price": 4.051971026391e-12,
+          "volume_24h": 0,
+          "volume_change_24h": 0,
+          "percent_change_1h": -0.49021844,
+          "percent_change_24h": 1.20760308,
+          "percent_change_7d": -12.785867,
+          "percent_change_30d": 58.520749,
+          "percent_change_60d": 168.34245208,
+          "percent_change_90d": 64.04740998,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 1701827.83,
+          "last_updated": "2021-11-21T18:25:09.000Z"
+        }
+      }
+    },
+    "MOONSHIB": {
+      "id": 14869,
+      "name": "The Moon Shiba",
+      "symbol": "MOONSHIB",
+      "slug": "the-moon-shiba",
+      "num_market_pairs": 1,
+      "date_added": "2021-11-19T15:06:05.000Z",
+      "tags": [],
+      "max_supply": null,
+      "circulating_supply": 0,
+      "total_supply": 420000000000000000,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0xf751f649d08ddb5ea383487b33653bb26eebbb43"
+      },
+      "is_active": 1,
+      "cmc_rank": 7203,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "last_updated": "2022-03-10T21:53:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 1.19565015378e-13,
+          "volume_24h": 931.84679647,
+          "volume_change_24h": 17.3644,
+          "percent_change_1h": 0.53543669,
+          "percent_change_24h": -5.7976711,
+          "percent_change_7d": -10.41152222,
+          "percent_change_30d": -27.1349296,
+          "percent_change_60d": -46.2257776,
+          "percent_change_90d": -67.76911161,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 50217.31,
+          "last_updated": "2022-03-10T21:53:00.000Z"
+        }
+      }
+    },
+    "MZ": {
+      "id": 14329,
+      "name": "MetaZilla",
+      "symbol": "MZ",
+      "slug": "metazilla",
+      "num_market_pairs": 1,
+      "date_added": "2021-11-11T06:57:05.000Z",
+      "tags": [],
+      "max_supply": null,
+      "circulating_supply": 0,
+      "total_supply": 0,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0x0d4992e48278aa7f7c915f820743d9fab7fea713"
+      },
+      "is_active": 1,
+      "cmc_rank": 6501,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "last_updated": "2022-03-10T21:53:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 3.61631e-18,
+          "volume_24h": 3546.75865325,
+          "volume_change_24h": -25.6841,
+          "percent_change_1h": 0.73286401,
+          "percent_change_24h": -7.98193848,
+          "percent_change_7d": -40.5212201,
+          "percent_change_30d": -62.33010606,
+          "percent_change_60d": -51.84674011,
+          "percent_change_90d": -71.98830505,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 0,
+          "last_updated": "2022-03-10T21:53:00.000Z"
+        }
+      }
+    },
+    "REDSHIBA": {
+      "id": 11239,
+      "name": "RedShiba",
+      "symbol": "REDSHIBA",
+      "slug": "redshiba",
+      "num_market_pairs": 1,
+      "date_added": "2021-08-13T00:00:00.000Z",
+      "tags": [],
+      "max_supply": 1000000000000000000,
+      "circulating_supply": 0,
+      "total_supply": 0,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0xf57d0b57074a5cf1cb0dd9453eb5af4e5174d157"
+      },
+      "is_active": 0,
+      "cmc_rank": null,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "last_updated": "2021-11-25T18:19:15.000Z",
+      "quote": {
+        "USD": {
+          "price": 8.21938825214e-13,
+          "volume_24h": 0,
+          "volume_change_24h": 0,
+          "percent_change_1h": 0.30132727,
+          "percent_change_24h": 9.21346675,
+          "percent_change_7d": 20.82672642,
+          "percent_change_30d": -4.63002046,
+          "percent_change_60d": 64.38776504,
+          "percent_change_90d": 14.15817017,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 821938.83,
+          "last_updated": "2021-11-25T18:19:15.000Z"
+        }
+      }
+    },
+    "REDZILLA": {
+      "id": 14157,
+      "name": "RedZilla",
+      "symbol": "REDZILLA",
+      "slug": "redzilla",
+      "num_market_pairs": 1,
+      "date_added": "2021-11-09T08:19:51.000Z",
+      "tags": [],
+      "max_supply": 1000000000000000000,
+      "circulating_supply": 0,
+      "total_supply": 1000000000000000000,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0xf9e45bf69d369d3e1ad2e16bd3ec4006c330f33a"
+      },
+      "is_active": 1,
+      "cmc_rank": 9185,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "last_updated": "2022-03-10T21:53:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 2.57343139396e-13,
+          "volume_24h": 0,
+          "volume_change_24h": 0,
+          "percent_change_1h": -2.3e-7,
+          "percent_change_24h": -2.3e-7,
+          "percent_change_7d": 767.27240661,
+          "percent_change_30d": 5.95409955,
+          "percent_change_60d": -9.61043239,
+          "percent_change_90d": -58.9461887,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 257343.14,
+          "last_updated": "2022-03-10T21:53:00.000Z"
+        }
+      }
+    },
+    "RSHIB": {
+      "id": 14976,
+      "name": "ROBOT SHIB",
+      "symbol": "RSHIB",
+      "slug": "robot-shib",
+      "num_market_pairs": 1,
+      "date_added": "2021-11-22T11:52:52.000Z",
+      "tags": [],
+      "max_supply": 872570250845199000,
+      "circulating_supply": 0,
+      "total_supply": 872570250845199000,
+      "platform": {
+        "id": 1839,
+        "name": "BNB Smart Chain (BEP20)",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "token_address": "0xc7fba797141f5392094e3dca8943ca7d8b6f92d8"
+      },
+      "is_active": 1,
+      "cmc_rank": 4245,
+      "is_fiat": 0,
+      "self_reported_circulating_supply": null,
+      "self_reported_market_cap": null,
+      "last_updated": "2022-03-10T21:53:00.000Z",
+      "quote": {
+        "USD": {
+          "price": 3.72720636025e-13,
+          "volume_24h": 109444.30195282,
+          "volume_change_24h": 341.7148,
+          "percent_change_1h": -9.82491227,
+          "percent_change_24h": 70.68679797,
+          "percent_change_7d": -48.29866442,
+          "percent_change_30d": 582.20371636,
+          "percent_change_60d": 411.87314602,
+          "percent_change_90d": 131.38619789,
+          "market_cap": 0,
+          "market_cap_dominance": 0,
+          "fully_diluted_market_cap": 325224.94,
+          "last_updated": "2022-03-10T21:53:00.000Z"
+        }
+      }
+    }
+  }
+}
